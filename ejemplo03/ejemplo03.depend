@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505248194 source:h:\umsa_ing\ejemplo03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
