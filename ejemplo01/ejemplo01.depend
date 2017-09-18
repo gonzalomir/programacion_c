@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505167936 source:d:\umsa_ing\ej01\ejemplo01\main.c
+	<stdio.h>
+	<stdlib.h>
+
