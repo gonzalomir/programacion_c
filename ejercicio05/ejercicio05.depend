@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505769864 source:g:\umsa_ing\ejercicio05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
